@@ -2,7 +2,7 @@
 
 ## Desciption
 
-This is a prework study guide webpage. 
+This is a prework study guide webpage. More information will be update soon. 
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+N/A
 
 ## Credits
 
